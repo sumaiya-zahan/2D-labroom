@@ -1,1 +1,1 @@
-# 2D-labroom
+Graphics Lab final project
